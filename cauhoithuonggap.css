@@ -1,0 +1,61 @@
+#tanluong{
+    margin-top: 1960px;
+    margin-left: -150px;
+}
+.So{
+    font-size: 50px;
+    color: #008080;
+    margin-top: -30px;
+   
+}
+.chu{
+    font-size: 40px;
+    color: #008080;
+    margin-left: 80px;
+    margin-top: -64px;
+}
+
+.mainmenubtn {
+background-image: linear-gradient(to right, #FFD700, #EEAD0E);
+    
+    color: #043f59;
+    border: none;
+    cursor: pointer;
+    margin-left: 350px;
+    width: 900px;
+   height: 40px;
+   padding: 0px 50px;
+   font-size: 20px;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+
+.dropdown {
+    margin-left: 100px;
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+ 
+    min-width: 300px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.dropdown-child a {
+   margin-left: 300px;
+   margin-top: 5px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+
+    display: block;
+}
+.bieutuong{
+    color: black;
+    width: 50px;
+}
+

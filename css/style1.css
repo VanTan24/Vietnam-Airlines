@@ -1,0 +1,186 @@
+@charset:  "UTF-8";
+
+#SECTION877{
+	max-width: 767px;
+	height: 90px;
+}
+.ladi-section{
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+
+
+}
+.ladi-section .ladi-section-background{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	pointer-events: none;
+	overflow: hidden;
+
+}
+.ladi-section .ladi-container{
+	width: 420px;
+}
+.ladi-container{
+	position: relative;
+	margin: 0 auto;
+	height: 100%;
+
+}
+#HEADLINE10{
+	width: 50px;
+	left: 70px;
+	top: 30px;
+
+}
+
+h3 {
+    display: block;
+    font-size: 1.20em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+a:hover{
+    color: orange;
+}
+
+#HEADLINE9{
+	width: 200px;
+	top: 30px;
+	left: 500px;
+}
+
+.ladi-element{
+	position: absolute;
+
+}
+.image{
+    position: absolute;
+}
+.login{
+    position: absolute;
+}
+#HEADLINE8 {
+    width: 150px;
+    top: 30px;
+    left: 300px;
+}
+
+
+#HEADLINE4 {
+    width: 100px;
+    top: 30px;
+    left: 160px;
+}
+
+
+
+#IMAGE35 {
+    width: 123.727px;
+    height: 19px;
+    top: 15px;
+    left: 17.5px;
+}
+#LINE38 {
+    height: 13px;
+    top: 7px;
+    left: 334.888px;
+}
+#LINE38 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+#LINE38 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgb(11, 137, 170);
+    border-bottom: 1px solid rgb(11, 137, 170);
+    border-left: 1px solid rgb(11, 137, 170);
+}
+.ladi-line .ladi-line-container {
+    border-bottom: 0!important;
+    border-right: 0!important;
+    width: 100%;
+    height: 100%;
+}
+#LINE37 {
+    height: 13px;
+    top: 7px;
+    left: 250px;
+}
+#LINE37 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+#LINE37 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgb(11, 137, 170);
+    border-bottom: 1px solid rgb(11, 137, 170);
+    border-left: 1px solid rgb(11, 137, 170);
+}
+#HEADLINE6 {
+    width: 61px;
+    top: 0px;
+    left: 351px;
+}
+a{
+    text-decoration: none;
+}
+
+#HEADLINE5 {
+    width: 71px;
+    top: 0px;
+    left: 267px;
+}
+#HEADLINE2 {
+    width: 96px;
+    top: 0px;
+    left: 158px;
+}
+
+#HEADLINE2 > .ladi-headline {
+   
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+#HEADLINE5 > .ladi-headline {
+    
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+#HEADLINE6 > .ladi-headline {
+    
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+#HEADLINE10 > .ladi-headline {
+    
+    font-size: 14px;
+    line-height: 1.4;
+}
+#HEADLINE4 > .ladi-headline {
+    
+    font-size: 14px;
+    line-height: 1.4;
+}
+#HEADLINE8 > .ladi-headline {
+    
+    font-size: 14px;
+    line-height: 1.4;
+}
+#HEADLINE9 > .ladi-headline {
+    
+    font-size: 14px;
+    line-height: 1.4;
+}
+.footer1{
+    position: absolute;
+}
