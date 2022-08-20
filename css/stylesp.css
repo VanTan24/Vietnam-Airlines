@@ -1,0 +1,2513 @@
+ .tong{
+
+    margin-top: 500px;
+    width: 100%;
+    height: 1000px;
+}
+#S_2_MucGia_80 {
+    height: 329.468px;
+    margin-left: -140px;
+}
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+div {
+    display: block;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, button, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, select, small, span, strike, strong, sub, summary, sup, table, tbody, td, textarea, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    font-family: Montserrat, sans-serif;
+}
+body {
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+}
+body {
+    line-height: 1;
+}
+#S_2_MucGia_80 > .ladi-section-background {
+    background-color: rgb(245, 245, 243);
+}
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+.ladi-section .ladi-container { 
+    
+    max-width: 785px;
+   
+}
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+#B80 {
+    width: 1058.02px;
+    height: 190.001px;
+    top: 129.187px;
+    left: -50px;
+}
+.ladi-element {
+    position: absolute;
+}
+#B80 > .ladi-box {
+    background-color: rgb(16, 125, 145);
+    border-radius: 6px;
+}
+.ladi-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+#HEADLINE3540 {
+    width: 272px;
+    top: 140.898px;
+    left: 340px;
+}
+#HEADLINE3540 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+#GROUP3932 {
+    width: 617px;
+    height: 75px;
+    top: 9.188px;
+    left: 100px;
+}
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#HEADLINE3933 {
+    width: 71px;
+    top: 0px;
+    left: 0px;
+}
+#HEADLINE3933 > .ladi-headline {
+    color: rgb(0, 95, 110);
+    font-size: 47px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+##HEADLINE3934 {
+    width: 548px;
+    top: 19px;
+    left: 69px;
+}
+#HEADLINE3934 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 96, 110);
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.6;
+    margin-left: 100px;
+}
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+#LINE3935 {
+    width: 56px;
+    top: 0px;
+    left: 0px;
+}
+#LINE3935 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+.ladi-line {
+    position: relative;
+}
+#LINE3935 > .ladi-line > .ladi-line-container {
+    border-top: 3px solid rgb(255, 209, 51);
+    border-right: 3px solid rgb(255, 209, 51);
+    border-bottom: 3px solid rgb(255, 209, 51);
+    border-left: 0px !important;
+}
+.ladi-line .ladi-line-container {
+    border-bottom: 0!important;
+    border-right: 0!important;
+    width: 100%;
+    height: 100%;
+}
+#HEADLINE4415 {
+    width: 740px;
+    top: 78.188px;
+    left: 170px;
+}
+
+#HEADLINE4415 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0, 96, 110);
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+#BUTTON4608 {
+    width: 230px;
+    height: 40px;
+    top: 209.188px;
+    left: 250px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON4608 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+.ladi-button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    
+}
+#BUTTON4608 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+.ladi-button .ladi-button-background {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+}
+#BUTTON_TEXT4608 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+.ladi-button>.ladi-element {
+    width: 100%!important;
+    height: 100%!important;
+    top: 0!important;
+    left: 0!important;
+    display: table;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+#BUTTON_TEXT4608 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+.ladi-button>.ladi-element .ladi-headline {
+    display: table-cell;
+    vertical-align: middle;
+}
+##BUTTON4592 {
+    width: 223px;
+    height: 40px;
+    top: 209.188px;
+    left: 490px;
+
+}
+#BUTTON4592 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+##BUTTON4592 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+.ladi-button .ladi-button-background {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+}
+#BUTTON_TEXT4592 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+.ladi-button>.ladi-element {
+    width: 100%!important;
+    height: 100%!important;
+    top: 0!important;
+    left: 0!important;
+    display: table;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+#BUTTON_TEXT4592 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+.ladi-button>.ladi-element .ladi-headline {
+    display: table-cell;
+    vertical-align: middle;
+}
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+
+
+
+
+#S_2_MucGia_50 {
+    height: 265.392px;
+    margin-left: -140px;
+}
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+#S_2_MucGia_50 > .ladi-section-background {
+    background-color: rgb(245, 245, 243);
+}
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+.ladi-section .ladi-container {
+    width: 960px;
+}
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+#BOX3267 {
+    width: 1058.02px;
+    height: 238px;
+    top: 17.72px;
+    left: -50px;
+}
+#BOX3267 > .ladi-box {
+    background-color: rgb(16, 124, 145);
+    border-radius: 6px;
+}
+
+#HEADLINE1617 {
+    width: 272px;
+    top: 22.72px;
+    left: 330px;
+}
+#HEADLINE1617 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON3263 {
+    width: 223px;
+    height: 40px;
+    top: 135.72px;
+    left: 480px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON3263 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3263 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+.ladi-button .ladi-button-background {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+}
+#BUTTON_TEXT3263 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3263 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3265 {
+    width: 223px;
+    height: 40px;
+    top: 135.72px;
+    left: 710px;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON3265 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3265 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3265 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3265 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3250 {
+    width: 223px;
+    height: 40px;
+    top: 85.72px;
+    left: 20px;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON3250 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3250 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3250 {
+    width: 223px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3250 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3252 {
+    width: 223px;
+    height: 40px;
+    top: 85.72px;
+    left: 250px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON3252 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3252 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3252 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3252 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3254 {
+    width: 223px;
+    height: 40px;
+    top: 85.72px;
+    left: 480px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON3254 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3254 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3254 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3254 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3259 {
+    width: 223px;
+    height: 40px;
+    top: 135.72px;
+    left: 20px;
+}
+#BUTTON3259 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3259 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3259 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3259 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3261 {
+    width: 223px;
+    height: 40px;
+    top: 135.72px;
+    left: 250px;
+}
+#BUTTON3261 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3261 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3261 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3261 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4598 {
+    width: 223px;
+    height: 40px;
+    top: 85.72px;
+    left: 710px;
+}
+#BUTTON4598 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4598 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4598 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4598 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4675 {
+    width: 223px;
+    height: 40px;
+    top: 185.72px;
+    left: 20px;
+}
+#BUTTON4675 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4675 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4675 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4675 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}   
+#BUTTON4677 {
+    width: 223px;
+    height: 40px;
+    top: 185.72px;
+    left: 250px;
+}
+#BUTTON4677 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4677 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4677 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4677 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4679 {
+    width: 223px;
+    height: 40px;
+    top: 185.72px;
+    left: 480px;
+}
+#BUTTON4679 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4679 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4679 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4679 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#IMAGE4681 {
+    width: 40px;
+    height: 40px;
+    top: 135.72px;
+    left: 19px;
+}
+#IMAGE4681.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 01s;
+    -webkit-animation-delay: 01s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+#IMAGE4681 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+.ladi-image .ladi-image-background {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+#S_2_MucGia_30 {
+    height: 252px;
+    margin-left: -140px;
+}
+#S_2_MucGia_30 > .ladi-section-background {
+    background-color: rgb(245, 245, 243);
+}
+.ladi-section .ladi-container {
+    width: 960px;
+}
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+#BOX3991 {
+    width: 1058.02px;
+    height: 233px;
+    top: 10.328px;
+    left: -50px;
+}
+#BOX3991 > .ladi-box {
+    background-color: rgb(16, 124, 145);
+    border-radius: 6px;
+}
+#HEADLINE4010 {
+    width: 272px;
+    top: 17.328px;
+    left: 340px;
+}
+#HEADLINE4010 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON3998 {
+    width: 223px;
+    height: 40px;
+    top: 80.328px;
+    left: 20px;
+}
+#BUTTON3998 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3998 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3998 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3998 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4002 {
+    width: 223px;
+    height: 40px;
+    top: 80.328px;
+    left: 480px;
+}
+#BUTTON4002 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4002 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4002 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4002 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4004 {
+    width: 223px;
+    height: 40px;
+    top: 80.328px;
+    left: 710px;
+}
+#BUTTON4004 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4004 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4004 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4004 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3994 {
+    width: 223px;
+    height: 40px;
+    top: 130.328px;
+    left: 480px;
+}
+#BUTTON3994 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3994 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3994 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3994 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4006 {
+    width: 223px;
+    height: 40px;
+    top: 130.328px;
+    left: 20px;
+}
+#BUTTON4006 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4006 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4006 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4006 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4008 {
+    width: 223px;
+    height: 40px;
+    top: 130.328px;
+    left: 250px;
+}
+#BUTTON4008 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4008 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4008 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4008 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4000 {
+    width: 223px;
+    height: 40px;
+    top: 80.328px;
+    left: 250px;
+}
+#BUTTON4000 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4000 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4000 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4000 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#IMAGE4614 {
+    width: 40px;
+    height: 40px;
+    top: 81.328px;
+    left: 19px;
+}
+#IMAGE4614.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 01s;
+    -webkit-animation-delay: 01s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+#IMAGE4614 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+.ladi-image .ladi-image-background {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+#S_2_MucGia_10 {
+    margin-left: -140px;
+    height: 431px;
+}
+#S_2_MucGia_10 > .ladi-section-background {
+    background-color: rgb(245, 245, 243);
+}
+.ladi-section .ladi-container {
+    width: 960px;
+}
+#GROUP3544 {
+    width: 1058.02px;
+    height: 410px;
+    top: 9.328px;
+    left: -50px;
+}
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#BOX3545 {
+    width: 1058.02px;
+    height: 410px;
+    top: 0px;
+    left: 0px;
+}
+#BOX3545 > .ladi-box {
+    background-color: rgb(16, 124, 145);
+    border-radius: 6px;
+}
+#HEADLINE3546 {
+    width: 272px;
+    top: 12px;
+    left: 390px;
+}
+#HEADLINE3546 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON3547 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 530px;
+}
+#BUTTON3547 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3547 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3547 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3547 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON3549 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 760px;
+}
+#BUTTON3549 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3549 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3549 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3549 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3551 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 70px;
+}
+#BUTTON3551 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3551 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3551 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3551 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3553 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 300px;
+}
+#BUTTON3553 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3553 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3553 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3553 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3555 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 530px;
+}
+#BUTTON3555 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3555 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3555 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3555 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3557 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 760px;
+}
+#BUTTON3557 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3557 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3557 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3557 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3559 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 70px;
+}
+#BUTTON3559 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3559 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3559 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3559 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON3561 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 300px;
+}
+#BUTTON3561 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON3561 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT3561 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT3561 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#GROUP4440 {
+    width: 913px;
+    height: 90px;
+    top: 279.328px;
+    left: 20px;
+}
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#BUTTON4445 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+}
+#BUTTON4445 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4445 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4445 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4445 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4447 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 230px;
+}
+#BUTTON4447 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4447 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4447 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4447 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+
+element.style {
+    vertical-align: inherit;
+
+}
+#BUTTON4449 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 460px;
+}
+#BUTTON4449 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4449 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4449 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4449 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4451 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 690px;
+}
+#BUTTON4451 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4451 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4451 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4451 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4453 {
+    width: 223px;
+    height: 40px;
+    top: 50px;
+    left: 0px;
+}
+#BUTTON4453 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4453 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4453 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4453 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4424 {
+    width: 223px;
+    height: 40px;
+    top: 229.328px;
+    left: 480px;
+}
+#BUTTON4424 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4424 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4424 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+
+}
+#BUTTON_TEXT4424 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4426 {
+    width: 223px;
+    height: 40px;
+    top: 229.328px;
+    left: 710px;
+}
+#BUTTON4426 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4426 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4426 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4426 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4428 {
+    width: 223px;
+    height: 40px;
+    top: 179.328px;
+    left: 20px;
+
+}
+#BUTTON4428 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4428 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4428 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4428 > .ladi-headline {
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4430 {
+    width: 223px;
+    height: 40px;
+    top: 179.328px;
+    left: 250px;
+}
+#BUTTON4430 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4430 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4430 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4430 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4432 {
+    width: 223px;
+    height: 40px;
+    top: 179.328px;
+    left: 480px;
+}
+#BUTTON4432 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4432 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4432 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4432 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4434 {
+    width: 223px;
+    height: 40px;
+    top: 179.328px;
+    left: 710px;
+}
+#BUTTON4434 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4434 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4434 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4434 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4436 {
+    width: 223px;
+    height: 40px;
+    top: 229.328px;
+    left: 20px;
+}
+#BUTTON4436 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4436 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}  
+#BUTTON_TEXT4436 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4436 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4438 {
+    width: 223px;
+    height: 40px;
+    top: 229.328px;
+    left: 250px;
+}
+#BUTTON4438 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4438 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4438 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4438 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#IMAGE4585 {
+    width: 40px;
+    height: 40px;
+    top: 179.328px;
+    left: 710px;
+}
+#IMAGE4585.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4585 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4597 {
+    width: 40px;
+    height: 40px;
+    top: 230.328px;
+    left: 18px;
+}
+#IMAGE4597.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4597 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4613 {
+    width: 40px;
+    height: 40px;
+    top: 332.328px;
+    left: 20px;
+}
+#IMAGE4613.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4613 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4615 {
+    width: 40px;
+    height: 40px;
+    top: 229.328px;
+    left: 480px;
+}
+#IMAGE4615.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4615 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4617 {
+    width: 40px;
+    height: 40px;
+    top: 281.328px;
+    left: 709px;
+}
+#IMAGE4617.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4617 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4672 {
+    width: 40px;
+    height: 40px;
+    top: 230.328px;
+    left: 709px;
+}
+#IMAGE4672.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4672 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#IMAGE4673 {
+    width: 40px;
+    height: 40px;
+    top: 280.328px;
+    left: 250px;
+}
+#IMAGE4673.ladi-animation > .ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+#IMAGE4673 > .ladi-image > .ladi-image-background {
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    background-image: url(https://w.ladicdn.com/s350x350/5ffff1d…/image001-20210902045754.png);
+}
+#S_2_MucGia_5 {
+    margin-left: -140px;
+    height: 420.328px;
+}
+#S_2_MucGia_5 > .ladi-section-background {
+    background-color: rgb(255, 255, 255);
+}
+.ladi-section .ladi-container {
+    width: 960px;
+}
+#GROUP4091 {
+    width: 1058.02px;
+    height: 400px;
+    top: 8.328px;
+    left: -50px;
+}
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#BOX4028 {
+    width: 1058.02px;
+    height: 400px;
+    top: 0px;
+    left: 0px;
+}
+#BOX4028 > .ladi-box {
+    background-color: rgb(0, 170, 207);
+    border-radius: 6px;
+}
+#B9010333999 {
+    width: 223px;
+    height: 40px;
+    top: 170px;
+    left: 70px;
+}
+#B9010333999 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9010333999 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4049 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4049 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#B9010555333 {
+    width: 223px;
+    height: 40px;
+    top: 170px;
+    left: 300px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#B9010555333 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9010555333 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4051 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4051 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#B9010555888 {
+    width: 223px;
+    height: 40px;
+    top: 170px;
+    left: 530px;
+}
+#B9010555888 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9010555888 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4053 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4053 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#B9010666555 {
+    width: 223px;
+    height: 40px;
+    top: 170px;
+    left: 760px;
+}
+#B9010666555 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9010666555 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4055 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4055 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#HEADLINE4029 {
+    width: 272px;
+    top: 10px;
+    left: 390px;
+}
+#HEADLINE4029 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#B9012600000 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 70px;
+}
+#B9012600000 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9012600000 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4034 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4034 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#B9011511111 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 300px;
+}
+#B9011511111 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9011511111 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4036 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4036 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#BUTTON4038 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 530px;
+}
+#BUTTON4038 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4038 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4038 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4038 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+#B9018844444 {
+    width: 223px;
+    height: 40px;
+    top: 70px;
+    left: 760px;
+}
+#B9018844444 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9018844444 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4040 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4040 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4030 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 530px;
+}
+#BUTTON4030 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4030 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4030 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4030 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4032 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 760px;
+}
+#BUTTON4032 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4032 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4032 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4032 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4042 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 70px;
+}
+#BUTTON4042 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4042 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4042 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4042 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4044 {
+    width: 223px;
+    height: 40px;
+    top: 120px;
+    left: 300px;
+}
+#BUTTON4044 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4044 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4044 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4044 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4058 {
+    width: 223px;
+    height: 40px;
+    top: 220px;
+    left: 530px;
+}
+#BUTTON4058 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}   
+#BUTTON4058 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4058 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4058 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4060 {
+    width: 223px;
+    height: 40px;
+    top: 220px;
+    left: 760px;
+}
+#BUTTON4060 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4060 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4060 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4060 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4062 {
+    width: 223px;
+    height: 40px;
+    top: 220px;
+    left: 70px;
+}
+#BUTTON4062 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4062 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4062 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4062 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4064 {
+    width: 223px;
+    height: 40px;
+    top: 220px;
+    left: 300px;
+}
+#BUTTON4064 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4064 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4064 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4064 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4475 {
+    width: 223px;
+    height: 40px;
+    top: 328.328px;
+    left: 710px;
+}
+a:link {
+    color: inherit;
+}
+#BUTTON4475 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    border-style: solid;
+    border-color: rgb(206, 151, 11);
+    border-width: 2px;
+}
+#BUTTON4475 > .ladi-button > .ladi-button-background {
+    background-color: rgb(255, 255, 255);
+}
+#BUTTON_TEXT4475 {
+    width: 187px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4475 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(206, 151, 11);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 1;
+}
+element.style {
+    vertical-align: inherit;
+}
+#GROUP4539 {
+    width: 913px;
+    height: 40.001px;
+    top: 278.328px;
+    left: 20px;
+}
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#BUTTON4458 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 460px;
+}
+[data-action=true] {
+    cursor: pointer;
+}
+#BUTTON4458 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#BUTTON4458 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4458 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4458 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#B9013356789 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 690px;
+}
+#B9013356789 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9013356789 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4460 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4460 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4462 {
+    width: 223px;
+    height: 40px;
+    top: 0.001px;
+    left: 0px;
+}
+#BUTTON4462 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+
+#BUTTON4462 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4462 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4462 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#BUTTON4464 {
+    width: 223px;
+    height: 40px;
+    top: 0px;
+    left: 230px;
+}
+#BUTTON4464 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+
+#BUTTON4464 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4464 {
+    width: 191px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4464 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
+#B9014993366 {
+    width: 223px;
+    height: 40px;
+    top: 327.328px;
+    left: 20px;
+}
+#B9014993366 > .ladi-button {
+    box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+    -webkit-box-shadow: 0px 8px 20px -15px rgb(255 255 255);
+}
+#B9014993366 > .ladi-button > .ladi-button-background {
+    background-color: rgb(230, 180, 65);
+}
+#BUTTON_TEXT4473 {
+    width: 189px;
+    top: 9px;
+    left: 0px;
+}
+#BUTTON_TEXT4473 > .ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(245, 245, 243);
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+element.style {
+    vertical-align: inherit;
+}
